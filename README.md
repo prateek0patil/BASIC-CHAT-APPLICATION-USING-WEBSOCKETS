@@ -1,1 +1,1 @@
-# CodeClause_Basic-Chat-Application-using-Websockets
+# CodeClause_Basic Chat Application using Websockets
